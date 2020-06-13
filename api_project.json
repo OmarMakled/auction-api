@@ -1,0 +1,1 @@
+{  "name": "Safebid Api",  "version": "0.1.0",  "description": "Safebid api",  "title": "Safebid Api",  "url": "https://safebid.xyz/api",  "sampleUrl": false,  "defaultVersion": "0.0.0",  "apidoc": "0.3.0",  "generator": {    "name": "apidoc",    "time": "2020-06-05T10:34:33.297Z",    "url": "http://apidocjs.com",    "version": "0.19.0"  }}
